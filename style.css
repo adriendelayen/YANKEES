@@ -1,0 +1,59 @@
+@font-face {
+    font-family: baseball;
+    src: url(./fonts/SignatypeFree.eot);
+    src: url(./fonts/SignatypeFree.woff);
+    src: url(./fonts/SignatypeFree.woff2);
+}
+
+.navbar-brand{
+    margin-left: 5px;
+    padding: 8px 10px 8px 8px;
+}
+
+#yankeeslogo{
+    width: 4%;
+    height: 4%;
+}
+
+
+.textaccueil{
+    font-size: 70px;
+    text-align: center;
+    font-family: baseball;
+    margin: 0;
+}
+
+.imgequipe{
+    width: 100%;
+}
+
+.cardcontainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card:hover{
+    transform: scale(1.025);
+}
+
+#yankeestadium{
+    width: 500px;
+    height: 100%;
+}
+
+.container1{
+    margin-bottom: 10px;
+}
+
+
+.col{
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.textadresse{
+    font-size: 70px;
+    text-align: center;
+    font-family: baseball;
+    margin: 0;
+}

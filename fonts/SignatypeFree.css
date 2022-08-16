@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SignatypeFree';
+    src: url('fonts/SignatypeFree.eot');
+    src: url('fonts/SignatypeFree.eot') format('embedded-opentype'),
+         url('fonts/SignatypeFree.woff2') format('woff2'),
+         url('fonts/SignatypeFree.woff') format('woff'),
+         url('fonts/SignatypeFree.ttf') format('truetype'),
+         url('fonts/SignatypeFree.svg#SignatypeFree') format('svg');
+}
